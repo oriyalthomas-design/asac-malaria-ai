@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "ASAC — Age- and Site-Aware Calibration for Malaria Diagnostic AI"
+message: "If you use this software, please cite this repository and the associated ASAC research paper."
+type: software
+authors:
+  - family-names: "Oriya"
+    given-names: "Thomas Jabiya"
+    affiliation: "Independent Researcher, Kisumu, Kenya"
+repository-code: "https://github.com/oriyalthomas-design/asac-malaria-ai"
+version: "0.2.0"
+date-released: "2026-09-29"
+license: "MIT"
+keywords:
+  - malaria
+  - artificial intelligence
+  - medical AI
+  - microscopy
+  - calibration
+  - distribution shift
+  - subgroup evaluation
+  - health equity
+abstract: >
+  ASAC is a conceptual and methodological framework for auditing and evaluating
+  the reliability of malaria diagnostic artificial intelligence across patient
+  subgroups, healthcare sites, image-acquisition conditions, and deployment
+  environments. This software provides a minimal reference implementation for
+  subgroup performance and calibration auditing. It is intended for research
+  and methodological development and is not clinically validated.

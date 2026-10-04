@@ -90,11 +90,13 @@ Future versions may add:
 Citation
 
 When using this software, please cite the associated ASAC research paper and the specific software version used.
- Associated Research Manuscript
+ 
+Associated Research Manuscript
 
 Age- and Site-Aware Calibration for Reliable Malaria Diagnostic AI in East African Primary Healthcare
 
 Manuscript DOI: 10.5281/zenodo.23082413
+
 Author: Thomas Jabiya Oriya
 Independent Researcher, Kisumu, Kenya
 

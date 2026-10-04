@@ -98,7 +98,8 @@ Age- and Site-Aware Calibration for Reliable Malaria Diagnostic AI in East Afric
 Manuscript DOI: 10.5281/zenodo.23082413
 
 Author: Thomas Jabiya Oriya
-Affiliation : Independent Researcher, Kisumu, Kenya
+
+Affiliation: Independent Researcher, Kisumu, Kenya
 
 ORCID: to be added
 
